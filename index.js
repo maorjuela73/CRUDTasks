@@ -83,7 +83,7 @@ function reset(){
             <input type="text" class="form-control" id="description" placeholder="Ingresa la descripción de la tarea">
         </div>
 
-        <button type="submit" id="button1" class="btn btn-primary">Agregar</button>
+        <button type="submit" id="button1" class="btn btn-primary"><i class="fas fa-plus"></i> Agregar</button>
         <button id="button2" class="btn btn-success" style="display: none;">Actualizar</button>
         <button id="button3" class="btn btn-danger"  style="display: none;">Cancelar</button>
     </form>
